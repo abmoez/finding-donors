@@ -1,1 +1,3 @@
-# finding-donors
+# Finding Donors for CharityML
+- Implemented various supervised algorithms to model individuals' income using data collected from the 1994 U.S. Census. The project involves selecting, optimizing, and fine-tuning the best-performing algorithm to accurately predict whether an individual earns more than $50,000. This predictive model serves a practical purpose in a non-profit context, enabling organizations to tailor donation requests based on an individual's income level. The project showcases the inference of income brackets from publicly available features, providing valuable insights for strategic outreach and donation solicitation.
+- The dataset for this project originates from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/20/census+income). The datset was donated by Ron Kohavi and Barry Becker,
